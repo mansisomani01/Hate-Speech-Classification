@@ -14,7 +14,9 @@ and contexts. The dataset can be downloaded from given link.
 - 1 - Non-Abusive
 
 # Models
-Models like KNN, LSTM and BERT are used here.
+- KNN + TF-IDF
+- LSTM
+- BERT
 
 # Additional Information
 For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the [Report](2023021028_Mansi_Somani_Report_IS.pdf)
