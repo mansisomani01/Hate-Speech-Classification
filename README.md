@@ -18,7 +18,9 @@ and contexts. The dataset can be downloaded from given link.
 Models like KNN, LSTM and BERT are used here.
 
 # Additional Information
-For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the report. If you have any further questions or need assistance, feel free to reach out.
+For more detailed insights into the dataset construction, data preprocessing, experimental setup, and model implementation, please refer to the [Report](2023021028_Mansi_Somani_Report_IS.pdf)
+. If you have any further questions or need assistance, feel free to reach out.
+
 
 # Contributors
 Mansi Somani 
