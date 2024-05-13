@@ -24,5 +24,5 @@ For more detailed insights into the dataset construction, data preprocessing, ex
 
 
 # Contributors
-- Mansi Somani (mgsomani1410@gmail.com)
-- Radhika Mamidi
+- Mansi Somani (mgsomani1410@gmail.com or somani.girishbhai@students.iiit.ac.in)
+- Radhika Mamidi (radhika.mamidi@iiit.ac.in)
