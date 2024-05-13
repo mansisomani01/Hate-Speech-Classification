@@ -3,16 +3,15 @@
 # Data Description
 For our study on abusive text detection in Hindi, we
 leveraged a dataset containing a collection of comments in
-the Hindi language. These comments were manually labeled
-as either ”abusive” (0) or ”non-abusive” (1) based on their content. The dataset comprises approximately 20,000 comments,
+the Hindi language. The dataset comprises approximately 20,000 comments,
 providing a substantial corpus for training and evaluating our
 models. The comments were sourced from various online
 platforms, ensuring a diverse representation of language usage
 and contexts. The dataset can be downloaded from given link.
 
 # Label Distribution
-0 - Abusive
-1 - Non-Abusive
+- 0 - Abusive
+- 1 - Non-Abusive
 
 # Models
 Models like KNN, LSTM and BERT are used here.
