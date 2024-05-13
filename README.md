@@ -7,7 +7,7 @@ the Hindi language. The dataset comprises approximately 20,000 comments,
 providing a substantial corpus for training and evaluating our
 models. The comments were sourced from various online
 platforms, ensuring a diverse representation of language usage
-and contexts. The dataset can be downloaded from given link.
+and contexts. The dataset can be downloaded from given [link](https://drive.google.com/drive/folders/1LTmoA7EFX3LoQI3eyCrrMJr9DMEMqupO).
 
 # Label Distribution
 - 0 - Abusive
